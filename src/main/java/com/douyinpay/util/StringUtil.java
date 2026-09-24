@@ -4,7 +4,7 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 
-/** 字符串工具类 */
+/** 字符串工具类ForTest */
 public class StringUtil {
   private StringUtil() {}
 
